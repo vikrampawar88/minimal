@@ -4,10 +4,15 @@
 
 ## Machine learning
 
-### Fraud Detection
+### LendingClub Case Study - Exploratory Data Analysis
 
-Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorised financial activity. This may include fraudulent credit card transactions, identity theft, cyber hacking, insurance scams and more.
+LendingClub is an online peer-to-peer lending platform that connects borrowers and investors.
+Like most other lending companies, lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). 
+The goal is to identify these risky loan applicants, then risky loans can be reduced thereby cutting down the amount of credit loss. 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/fraud_detection)
+Case study is focused on using EDA to find driving factors (or driver variables) behind loan default so company can utilise this knowledge for its portfolio and risk assessment.
+Dataset includes complete loan data for all loans issued by Lending Club through the time period 2007 t0 2011.
 
-<center><img src="assets/img/fraud_detection.jpg"/></center>
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vikrampawar88/LendingClub_Case_Study)
+
+<center><img src="assets/img/lendingclub.jpg"/></center>
